@@ -1,0 +1,13 @@
+body {
+    background-color: #BEEBE9;
+}
+h1 {
+    color: #F6EEC7;
+}
+hr {
+    border-style: solid none none none;
+    border-color: #F6EEC7;
+    border-top-width: 5px;
+    width: 50%;
+    border-radius: 5px;
+}
